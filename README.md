@@ -55,5 +55,4 @@ if __name__ == '__main__':
 
 ```
 
-
 `#$ python zip_password_cracking.py -f Zip.zip -d Dir.txt`
