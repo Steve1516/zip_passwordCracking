@@ -4,19 +4,6 @@
 
 ```Python
 
-'''
-
-help('zipfile')
-
-extractall(self, path=None, members=None, pwd=None)
-     |      Extract all members from the archive to the current working
-     |      directory. `path' specifies a different directory to extract to.
-     |      `members' is optional and must be a subset of the list returned
-     |      by namelist().
-
-
-'''
-
 import zipfile
 
 from threading import Thread #多线程测试
